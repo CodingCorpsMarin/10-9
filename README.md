@@ -29,3 +29,7 @@ Stanley , Jonathan
 
 
 ## For Next Time
+
+
+
+Flatiron JS: The Dom, jQuery sections
