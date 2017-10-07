@@ -1,0 +1,15 @@
+
+Competencies
+
+jQuery is probably the most popular JS library 
+All jQuery code goes inside “$(document).ready…”
+jQuery selects html/css tags to operate pre-coded functions on
+Check jQuery docs for a list of all the functions
+The most powerful thing about jQuery is event handling/binding, you can program certain on-screen events to trigger changes in the application
+
+Applications
+Utilize jQuery and DOM manipulation to create dynamic pages and apps
+Learn to traverse the DOM
+
+Documentation:
+https://api.jquery.com/
